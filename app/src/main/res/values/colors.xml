@@ -7,4 +7,26 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <!-- CUCEI MART PALETTES -->
+    <!-- Ocean -->
+    <color name="ocean_primary_start">#667eea</color>
+    <color name="ocean_primary_end">#764ba2</color>
+    <color name="ocean_accent">#4299e1</color>
+
+    <!-- Trust -->
+    <color name="trust_primary_start">#283593</color>
+    <color name="trust_primary_end">#1E88E5</color>
+    <color name="trust_accent">#00ACC1</color>
+
+    <!-- Forest -->
+    <color name="forest_primary_start">#4caf50</color>
+    <color name="forest_primary_end">#2e7d32</color>
+    <color name="forest_accent">#388e3c</color>
+
+    <!-- UI Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="background_overlay">#F5F5F5</color>
+    <color name="border_color">#E0E0E0</color>
+    <color name="shadow_color">#21000000</color>
 </resources>

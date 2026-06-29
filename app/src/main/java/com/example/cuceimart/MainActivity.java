@@ -74,9 +74,18 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     public boolean onOptionsItemSelected(@NonNull MenuItem item) {
-        if (item.getItemId() == R.id.nav_settings) {
+        int id = item.getItemId();
+        if (id == R.id.nav_settings) {
             NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment_content_main);
             navController.navigate(R.id.nav_settings);
+            return true;
+        } else if (id == R.id.nav_palette) {
+            // Aquí se implementaría la lógica para cambiar la paleta
+            Snackbar.make(findViewById(android.R.id.content), "Seleccionador de Paleta", Snackbar.LENGTH_SHORT).show();
+            return true;
+        } else if (id == R.id.nav_profile) {
+            Snackbar.make(findViewById(android.R.id.content), "Perfil de Usuario", Snackbar.LENGTH_SHORT).show();
+            return true;
         }
         return super.onOptionsItemSelected(item);
     }
