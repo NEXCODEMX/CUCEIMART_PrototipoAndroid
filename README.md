@@ -753,8 +753,8 @@ Desarrollado por **NEXCODE**
 | Rol | Nombre |
 |---|---|
 | Fundador y Desarrollador Principal | Ragknos Demian Fernandez Agraz Rodriguez |
-| Colaborador | Carlos Maximiliano Fonseca Farfan |
-| Colaborador | Christian Alejandro Garcia Ramirez |
+| Colaborador | Torres Amezcua Francisco Javier  |
+| Colaborador | Aqui falta tu nombre Jorge |
 
 Redes:
 
